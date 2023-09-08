@@ -34,7 +34,7 @@ The students edit this section to add their names, Uniandes emails, and specify 
 
 1. Sebastián Montoya Alvarez,  s.montoyaa2@unaindes.edu.co, 202317398
 1. Manuel villaveces, m.villaveces2@uniandes.edu.co, 202022367
-1.  alejandro cruz, a.cruz@uniandes.edu.co, ########
+1.  alejandro cruz, a.cruz@uniandes.edu.co, 201912149
 
 
 [Back to top](#sample-list)
